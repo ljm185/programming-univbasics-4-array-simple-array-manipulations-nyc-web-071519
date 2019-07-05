@@ -11,6 +11,5 @@ def using_pop(array)
 end
 
 def using_pop_with_args(array)
-  array.pop
-  array.pop
+  array.pop and array.pop
 end
